@@ -1,0 +1,4 @@
+alert("Olá, mundo. Me chamo Camila!");
+var nome = prompt ("Digite seu nome:")
+var sobrenome = prompt ("Digite seu sobrenome:")
+alert("Seja bem vinda a seu primeiro programa," + nome + " " + sobrenome);
